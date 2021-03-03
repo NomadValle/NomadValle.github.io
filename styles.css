@@ -181,7 +181,7 @@ main {
 
 .hero h2{
   color: #2e1f7e;
-  text-shadow: 3px 3px 3px;
+/*   text-shadow: 3px 3px 3px; */
 }
 .nav-portfolio {
     display: block;
