@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +12,7 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg877"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    sodipodi:docname="SA_LOGO.svg">
   <defs
      id="defs871" />
@@ -26,17 +24,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="610.88284"
+     inkscape:cx="335.88284"
      inkscape:cy="622.38094"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-global="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
      inkscape:window-x="-8"
-     inkscape:window-y="103"
-     inkscape:window-maximized="1" />
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata874">
     <rdf:RDF>
@@ -45,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,7 +53,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:#0000ff;fill-opacity:1;stroke:#ffa500;stroke-width:0.99999994;stroke-opacity:1"
+       style="fill:#1f407e;fill-opacity:1;stroke:#ffa500;stroke-width:0.99999994;stroke-opacity:1"
        d="M 401.60156 148.23828 A 374.28569 374.28569 0 0 0 25.724609 519.86328 L 25.716797 524.08008 A 374.28569 374.28569 0 0 0 400.50781 896.80469 A 374.28569 374.28569 0 0 0 774.28516 523.06641 A 374.28569 374.28569 0 0 0 401.60156 148.23828 z M 401.47461 178.19727 A 344.32571 344.32571 0 0 1 744.32617 523.02344 A 344.32571 344.32571 0 0 1 400.4668 866.8457 A 344.32571 344.32571 0 0 1 55.677734 523.95508 L 55.683594 520.07617 A 344.32571 344.32571 0 0 1 401.47461 178.19727 z M 401.42969 188.28516 A 334.23761 334.23761 0 0 0 65.771484 520.14844 L 65.765625 523.91406 A 334.23761 334.23761 0 0 0 400.45312 856.75781 A 334.23761 334.23761 0 0 0 734.23828 523.00781 A 334.23761 334.23761 0 0 0 401.42969 188.28516 z "
        id="path882"
        transform="scale(0.26458333)" />
