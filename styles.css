@@ -125,7 +125,10 @@ header {
     margin-left: 2px;
     float: left;
 }
-
+.logo1{
+    width:70px;
+    height:auto;
+}
 .nav-btn{
   border:3px solid #1f407e;
   border-radius: 45px;
