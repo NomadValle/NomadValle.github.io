@@ -152,7 +152,10 @@ header {
       box-shadow: 4px 4px 8px 4px black;
 }
 
-
+.logo{
+    max-width:100%;
+    height:auto;
+}
 /* MAIN SECTION */
 
 main {
