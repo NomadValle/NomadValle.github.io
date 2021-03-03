@@ -206,7 +206,10 @@ main {
 
 /* PROJECTS/SKILLS SECTION*/
 
-
+#js-todo{
+    max-width: 30%;
+    height: auto;
+}
 
 
 /*EDUCATION*/
