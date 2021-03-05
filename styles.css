@@ -205,12 +205,23 @@ main {
 
 
 /* PROJECTS/SKILLS SECTION*/
-
-#js-todo{
-    max-width: 30%;
-    height: auto;
+.projects{
+    display: grid;
+    margin:15px;
+    grid-template: "js-todo java-conversion";
 }
+#js-todo{grid-area:"js-todo"; width:100%;}
+#java-conversion{grid-area: "java-conversion";width:100%;}
+.proj-title{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
 
+}
+.proj-div{
+    padding:15px;
+}
 
 /*EDUCATION*/
 
