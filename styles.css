@@ -39,11 +39,7 @@ article{
     border-radius: 20px;
     display: block;
     height: auto;
-    /* margin-top: 0;
-    margin-bottom: 45px; */
     grid-template-columns: 50% 50%;
-    /* margin-left: 10%;
-    margin-right: 10%; */
     box-shadow: 4px 4px 8px 4px black;
 
 }
@@ -64,8 +60,6 @@ article{
 .Section { /*Picture*/
     /* border: 1px solid blue; */
     display: grid;
-    /* margin: 5%; */
-    /* padding: 5%; */
     font-family: 'Lato', fantasy;
     font-size: 35px;
     font-weight: 200;
@@ -120,7 +114,6 @@ header {
 .navlinks {
     display: inline-block;
     width: 100%;
-    /* grid-template: 'logo portfolio contact'; */
 }
 
 .nav-logo {
@@ -184,7 +177,6 @@ main {
 
 .hero h2{
   color: #000000;
-/*   text-shadow: 3px 3px 3px; */
 }
 .nav-portfolio {
     display: block;
