@@ -183,8 +183,9 @@ main {
 }
 
 .hero{
-  background: cover;
-  color: var(--accent-color);
+  /* background: cover; */
+  color:rgba(0, 0, 0, 0.753);
+  /* color: var(--accent-color); */
   height: 100vh;
   text-align: center;
   margin: 0;
@@ -193,7 +194,7 @@ main {
 
 .hero h2{
     font-family: 'heebo';
-  color: #000000;
+  color: #ffffff;
 }
 .nav-portfolio {
     border:3px solid var(--accent-color);
@@ -208,6 +209,7 @@ main {
 .skills-list{
     display: block;
     font-family: 'Lato',Verdana, Geneva, Tahoma, sans-serif;
+    color:black;
 }
 
 /* ABOUT SECTION */
