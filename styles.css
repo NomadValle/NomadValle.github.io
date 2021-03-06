@@ -186,6 +186,12 @@ main {
     margin-top: 15px;
 
 }
+
+.skills-list{
+    display: block;
+    font-family: 'Lato',Verdana, Geneva, Tahoma, sans-serif;
+}
+
 /* ABOUT SECTION */
 
 #mepic {
